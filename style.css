@@ -152,7 +152,8 @@ SP
   sns
   -------------------------------------------*/
  #sns ul {
-    flex-direction: column;
+  display: flex;
+  justify-content: space-between;
   }
   #sns li {
     width: 5%;
