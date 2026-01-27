@@ -96,6 +96,22 @@ About
 }
 
 /*-------------------------------------------
+sns
+-------------------------------------------*/
+#sns .content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#about img {
+  width: 100px;
+  height: 100px;
+  margin-right: 30px;
+}
+#about .text {
+  text-align: left;
+}
+/*-------------------------------------------
 Bicycle
 -------------------------------------------*/
 #bicycle ul {
