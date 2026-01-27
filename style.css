@@ -102,7 +102,7 @@ sns
   display: flex;
   justify-content: space-between;
 }
-#about img {
+#sns img {
   width: 100px;
   height: 100px;
   margin-right: 30px;
