@@ -100,8 +100,7 @@ sns
 -------------------------------------------*/
 #sns .content {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-between;
 }
 #sns img {
   width: 100px;
