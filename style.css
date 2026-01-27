@@ -112,9 +112,9 @@ sns
   text-align: left;
 }
 /*-------------------------------------------
-Bicycle
+archive
 -------------------------------------------*/
-#bicycle ul {
+#archive ul {
   display: flex;
   justify-content: space-between;
 }
@@ -152,11 +152,21 @@ SP
   #about img {
     margin-right: 0;
   }
+  
+/*-------------------------------------------
+  sns
+  -------------------------------------------*/
+  #sns .content {
+    flex-direction: column;
+  }
+  #about img {
+    margin-right: 0;
+  }
 
   /*-------------------------------------------
-  Bicycle
+  archive
   -------------------------------------------*/
-  #bicycle ul {
+  #archive ul {
     flex-direction: column;
   }
   #bicycle li {
