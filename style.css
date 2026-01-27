@@ -103,12 +103,12 @@ sns
   justify-content: center;
   align-items: center;
 }
-#about img {
+#sns img {
   width: 100px;
   height: 100px;
   margin-right: 30px;
 }
-#about .text {
+#sns .text {
   text-align: left;
 }
 /*-------------------------------------------
@@ -159,7 +159,7 @@ SP
   #sns .content {
     flex-direction: column;
   }
-  #about img {
+  #sns img {
     margin-right: 0;
   }
 
@@ -169,7 +169,7 @@ SP
   #archive ul {
     flex-direction: column;
   }
-  #srchive li {
+  #archive li {
     width: 100%;
     margin-bottom: 30px;
   }
