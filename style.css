@@ -118,7 +118,7 @@ archive
   display: flex;
   justify-content: space-between;
 }
-#bicycle li {
+#archive li {
   width: 32%;
 }
 
@@ -169,7 +169,7 @@ SP
   #archive ul {
     flex-direction: column;
   }
-  #bicycle li {
+  #srchive li {
     width: 100%;
     margin-bottom: 30px;
   }
