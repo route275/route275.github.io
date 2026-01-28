@@ -45,7 +45,7 @@ li {
 ヘッダー
 -------------------------------------------*/
 #header {
-  position: fixed;
+  position: sticky;
   top: 10px; 
 }
 #header ul {
