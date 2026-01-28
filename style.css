@@ -103,13 +103,6 @@ archive
 #archive .text {
   text-align: left;
 }
-#archive ul {
-  display: flex;
-  justify-content: space-between;
-}
-#archive li {
-  width: 32%;
-}
 
 /*-------------------------------------------
 footer
