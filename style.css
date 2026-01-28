@@ -45,10 +45,6 @@ li {
 ヘッダー
 -------------------------------------------*/
 #header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin: 0 auto;
   position: fixed;
   top: 10px; 
 }
