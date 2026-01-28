@@ -79,6 +79,9 @@ Mainvisual
 /*-------------------------------------------
 About
 -------------------------------------------*/
+#about . {
+  margin-top: 80px;
+}
 #about .content {
   margin-top: 80px;
   display: flex;
