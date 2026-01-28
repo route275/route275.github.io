@@ -48,12 +48,6 @@ li {
   position: sticky;
   top: 10px; 
 }
-#header img {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  margin-right: 30px;
-}
 #header ul {
   display: flex;
   padding: 10px 0;
