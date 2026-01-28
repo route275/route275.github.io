@@ -134,18 +134,6 @@ SP
   #about img {
     margin-right: 0;
   }
-  
-/*-------------------------------------------
-  sns
-  -------------------------------------------*/
- #sns ul {
-   display: flex;
-   justify-content: space-between;
-  }
-  #sns li {
-    width: 5%;
-    margin-bottom: 30px;
-  }
 
   /*-------------------------------------------
   archive
